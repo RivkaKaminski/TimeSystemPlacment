@@ -1,0 +1,22 @@
+.result-page {
+  padding: 20px;
+}
+
+.schedule-table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.schedule-table th, .schedule-table td {
+  border: 1px solid #ddd;
+  padding: 8px;
+  text-align: center;
+}
+
+.schedule-table th {
+  background-color: #f4f4f4;
+}
+
+.schedule-table td {
+  height: 100px; /* Adjust as needed */
+}
